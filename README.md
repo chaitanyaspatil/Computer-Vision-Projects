@@ -1,5 +1,5 @@
 
-A repository of a few of my Computer Vision projects.
+A repository of a few of my Computer Vision and Data Science projects.
 
 If you face any problems viewing my 'Handwritten Digit Recognition using a Shallow Neural Net' Jupyter Notebook on github, you can view it here:
 
